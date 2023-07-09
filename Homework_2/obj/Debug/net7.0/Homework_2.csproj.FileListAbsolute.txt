@@ -1,0 +1,15 @@
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\bin\Debug\net7.0\Homework_2.exe
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\bin\Debug\net7.0\Homework_2.deps.json
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\bin\Debug\net7.0\Homework_2.runtimeconfig.json
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\bin\Debug\net7.0\Homework_2.dll
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\bin\Debug\net7.0\Homework_2.pdb
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.csproj.AssemblyReference.cache
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.AssemblyInfoInputs.cache
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.AssemblyInfo.cs
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.csproj.CoreCompileInputs.cache
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.dll
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\refint\Homework_2.dll
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.pdb
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\Homework_2.genruntimeconfig.cache
+c:\Users\avako\source\repos\Homework\Homework_2\Homework_2\obj\Debug\net7.0\ref\Homework_2.dll
